@@ -1,0 +1,6 @@
+uniform mediump vec4 graphColor;
+
+void main()
+{
+	gl_FragColor = graphColor;
+}

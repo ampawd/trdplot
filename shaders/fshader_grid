@@ -1,0 +1,6 @@
+uniform mediump vec4 gridColor;
+
+void main()
+{
+	gl_FragColor = gridColor;
+}
